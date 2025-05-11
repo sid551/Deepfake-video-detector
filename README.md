@@ -64,13 +64,13 @@ The application should now be running on `http://127.0.0.1:5000/`. You can acces
 ## Screenshots/Logs/Diagrams
 
 ### 1. **Homepage**
-![Homepage Screenshot](screenshots/homepage.png)
+![Homepage Screenshot](tool/source_code/screenshots/homepage.png)
 
 ### 2. **Upload Page**
-![Upload Page Screenshot](screenshots/upload.png)
+![Upload Page Screenshot](tool/source_code/screenshots/upload.png)
 
 ### 3. **Results Page**
-![Results Screenshot](screenshots/results.png)
+![Results Screenshot](tool/source_code/screenshots/results.png)
 
 ### 4. **Logs**
 ```
